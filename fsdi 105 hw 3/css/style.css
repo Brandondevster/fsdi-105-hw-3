@@ -1,0 +1,19 @@
+#usersTable {
+    width: 100%;
+}
+
+#usersTable,
+th,
+td {
+    border: 1px solid gray;
+}
+
+.error {
+    border: 1px solid red;
+}
+#alertError {
+    color: red;
+}
+.hide{
+    display: none;
+}
